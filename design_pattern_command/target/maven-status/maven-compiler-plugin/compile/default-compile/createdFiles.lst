@@ -1,0 +1,12 @@
+br/com/sunsystem/padrao_command/CopyCommand.class
+br/com/sunsystem/padrao_command/PasteCommand.class
+br/com/sunsystem/padrao_command/CutCommand.class
+br/com/sunsystem/padrao_command/Editor$5.class
+br/com/sunsystem/padrao_command/Editor$1.class
+br/com/sunsystem/padrao_command/Editor$3.class
+br/com/sunsystem/padrao_command/Command.class
+br/com/sunsystem/padrao_command/Editor$2.class
+br/com/sunsystem/padrao_command/Demo.class
+br/com/sunsystem/padrao_command/Editor.class
+br/com/sunsystem/padrao_command/Editor$4.class
+br/com/sunsystem/padrao_command/CommandHistory.class
